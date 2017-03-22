@@ -1,6 +1,6 @@
-# Chemical Manufature Text Classifier
+# Chemical Manufacture Text Classifier
 
-_______________________________________
+
 This is the course project repo for cs273@ucsb
 
 author: runsheng song and yiting ju
