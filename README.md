@@ -1,4 +1,4 @@
-# Chemical Manufature Text Classifier -- cs273
+# Chemical Manufature Text Classifier
 
 _______________________________________
 This is the course project repo for cs273@ucsb
